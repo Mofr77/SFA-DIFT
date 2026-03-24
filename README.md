@@ -1,4 +1,4 @@
-# When Lines Meet Textures: Spatial-Frequency Aligned Diffusion Features for Cross-Sparsity Correspondence
+<img width="1168" height="657" alt="c94d222d84b84760f6080424d0d74073" src="https://github.com/user-attachments/assets/bbc6c1b0-7bab-4cb3-9c11-a6066b89156e" /># When Lines Meet Textures: Spatial-Frequency Aligned Diffusion Features for Cross-Sparsity Correspondence
 
 
 ### 📢 News
@@ -35,6 +35,8 @@ tial improvements with an average of 0.87% on PCK@1,
 best methods, validating the effectiveness and robustness of
 our dual-domain alignment approach
 
+<img width="1168" height="657" alt="c94d222d84b84760f6080424d0d74073" src="https://github.com/user-attachments/assets/b577ed01-7f68-46a6-8fcd-6088fff20bd4" />
+
 
 ### 📅 Roadmap
 
@@ -44,3 +46,5 @@ We are currently organizing the code and will release it in the following order:
 - Pre-trained weights (SF-DIFT)
 - Evaluation code on standard benchmarks
 - Training scripts
+
+  
