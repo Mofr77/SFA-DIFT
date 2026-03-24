@@ -43,7 +43,7 @@ our dual-domain alignment approach
 We are currently organizing the code and will release it in the following order:
 
 - Inference / Demo scripts (for correspondence visualization)
-- Pre-trained weights (SF-DIFT)
+- Pre-trained weights (SFA-DIFT)
 - Evaluation code on standard benchmarks
 - Training scripts
 
