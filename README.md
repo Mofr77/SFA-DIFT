@@ -1,4 +1,4 @@
-<img width="1168" height="657" alt="c94d222d84b84760f6080424d0d74073" src="https://github.com/user-attachments/assets/bbc6c1b0-7bab-4cb3-9c11-a6066b89156e" /># When Lines Meet Textures: Spatial-Frequency Aligned Diffusion Features for Cross-Sparsity Correspondence
+# When Lines Meet Textures: Spatial-Frequency Aligned Diffusion Features for Cross-Sparsity Correspondence
 
 
 ### 📢 News
